@@ -1,3 +1,9 @@
+NowJS Version 0.8.2 - 4/1/2015
+--------------------------
+Changes since 0.8.1
+Jeff Eisen
+Use Debug version for now and don't call socket.socket due to new socket.io
+
 NowJS Version 0.8.0 - 1/16/2012
 ---------------------------
 Changes since 0.7.6:
